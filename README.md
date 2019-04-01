@@ -1,9 +1,6 @@
-> <p><i><font size="5">Keep a copy of this book handy to put Rx.NET into action!</font></i></p>
-> <p align="right">From the Foreword by Erik Meijer, Inventor of Rx</p>
-
 # Rx.NET in Action 中文版
 
-原著：written bt Tamir Dresher, published by [Manning](https://www.manning.com/), 2017
+原著：Tamir Dresher 著, [MANNING](https://www.manning.com/) 出版, 2017
 
 译文：[Alex Lewis](https://alexinea.com) [@translation.liuyi.work](https://translation.liuyi.work/rx-net-in-action-manning2017), 2019
 
@@ -38,6 +35,9 @@
 - [Rx 操作符清单](docs/catalog-of-rx-operators/)
 
 ## 关于此书
+
+> **_Keep a copy of this book handy to put Rx.NET into action!_**
+> —— From the Foreword by Erik Meijer, Inventor of Rx
 
 ### About the Technology
 
