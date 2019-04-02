@@ -10,7 +10,7 @@
 
 ## 目录
 
-- [前言](docs/foreword/)
+- [前言](docs/foreword/)（完成）
 - [序](docs/preface/)
 - [感谢](docs/acknowledgments/)
 - [关于本书](docs/about-this-book/)
@@ -36,28 +36,27 @@
 
 ## 关于此书
 
-> **_Keep a copy of this book handy to put Rx.NET into action!_**
-> —— From the Foreword by Erik Meijer, Inventor of Rx
+> **_Keep a copy of this book handy to put Rx.NET into action!_** —— From the Foreword by Erik Meijer, Inventor of Rx
 
-### About the Technology
+### 关于技术
 
-Modern applications must react to streams of data such as user and system events, internal messages, and sensor input. Reactive Extensions (Rx) is a .NET library containing more than 600 operators that you can compose together to build reactive client- and server-side applications to handle events asynchronously in a way that maximizes responsiveness, resiliency, and elasticity.
+现代应用程序必须对来自诸如用户与系统事件、内部消息、传感器等的数据流做出反应（react）。Reactive Extensions（Rx，反应式扩展）是一个包含 600 多个运算符的 .NET 库，开发人员可以将这些运算符组合在一起，构建出反应式客户端和服务端应用，以在响应性、伸缩性和弹性（responsiveness, resiliency, and elasticity）方面最大化的方式异步处理事件。
 
-### About the book
+### 关于本书
 
-Rx.NET in Action teaches developers how to build event-driven applications using the Rx library. Starting with an overview of the design and architecture of Rx-based reactive applications, you'll get hands-on with in-depth code examples to discover firsthand how to exploit the rich query capabilities that Rx provides and the Rx concurrency model that allows you to control both the asynchronicity of your code and the processing of event handlers. You'll also learn about consuming event streams, using schedulers to manage time, and working with Rx operators to filter, transform, and group events.
+开发人员可以通过阅读 _Rx.NET in Action_ 学习使用 Rx 库构建事件驱动的应用程序。全书始于概述基于 Rx 的反应式应用（Rx-based reactive applications）的设计和架构，深入代码示例，令你第一时间领略 Rx 的丰富查询功能，Rx 并发模型方便你异步控制代码和运行事件处理程序。你还会学到如何使用事件流（event streams），如何使用调度器（schedulers）管理时间，以及如何对事件进行筛选、转换和分组。
 
-### What's inside
+### 包含内容
 
-- Introduction to Rx in C#
-- Creating and consuming streams of data and events
-- Building complex queries on event streams
-- Error handling and testing Rx code
+- C# 中的 Rx 简介
+- 创建并使用数据流和事件
+- 在事件流上构建复杂查询
+- 错误处理和测试
 
-### About the reader
+### 关于读者
 
-Readers should understand OOP concepts and be comfortable coding in C#.
+读者应理解 OOP 概念，并能在 C# 中轻松边写代码。
 
-### About the author
+### 关于作者
 
-Tamir Dresher is a senior software architect at CodeValue and a prominent member of Israel's Microsoft programming community.
+Tamir Dresher ，高级软件架构师，目前供职于 [CodeValue](https://codevalue.net/) ，是以色列微软编程社区的重要成员。
