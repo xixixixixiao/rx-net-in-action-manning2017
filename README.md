@@ -10,17 +10,17 @@
 
 ## 目录
 
-- [前言](docs/foreword/)（完成）
-- [序](docs/preface/)
-- [感谢](docs/acknowledgments/)
+- [序](docs/foreword/)（完成）
+- [前言](docs/preface/)
+- [致谢](docs/acknowledgments/)
 - [关于本书](docs/about-this-book/)
 - [关于作者](docs/about-the-author/)
-- [关于封面设计](docs/about-the-cover-illuatration/)
-- [第一部分：Reactive Extensions 入门](docs/part1/)
+- [关于封面图画](docs/about-the-cover-illuatration/)
+- [第一部分：入门](docs/part1/)
   - [第一章 反应式编程](docs/part1/1/)
   - [第二章 你好，Rx](docs/part1/2/)
   - [第三章 C# 的函数式思想](docs/part1/3/)
-- [第二部分：核心思想](docs/part2/)
+- [第二部分：核心概念](docs/part2/)
   - [第四章 创建可观察对象序列](docs/part2/4/)
   - [第五章 从 .NET 异步类型创建可观察对象](docs/part2/5/)
   - [第六章 Controlling the observer-observable relationship](docs/part2/6/)

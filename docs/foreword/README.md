@@ -1,4 +1,4 @@
-# 前言
+# 序
 
 本书详尽介绍了 .NET 开发人员高效使用 Rx 所需的细节和背景知识，特别是如何在 .NET 中繁多的异步类型与 Rx 可观察对象（Rx observables）间建立联系，以及如何处理错误（errors）、资源分配（resource allocation）和并发（concurrency）问题
 
@@ -16,6 +16,4 @@
 
 如果您是一位清真的 .NET 开发人员，你就一定要保留这本书，并将 Rx.NET 付诸实践！
 
-—ERIK MEIJER
-
-RX 的发明者，[Applied Duality](http://www.applied-duality.com/) 的创始人。
+—— Erik Meijer，Rx 的发明者，[Applied Duality](http://www.applied-duality.com/) 的创始人
