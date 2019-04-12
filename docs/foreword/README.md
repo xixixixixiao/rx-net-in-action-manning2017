@@ -16,4 +16,4 @@
 
 如果您是一位清真的 .NET 开发人员，你就一定要保留这本书，并将 Rx.NET 付诸实践！
 
-—— Erik Meijer，Rx 的发明者，[Applied Duality](http://www.applied-duality.com/) 的创始人
+—— Erik Meijer，“Rx 之父”，[Applied Duality](http://www.applied-duality.com/) 创始人
