@@ -14,7 +14,7 @@
 - [前言](docs/preface/)（完成）
 - [致谢](docs/acknowledgments/)（完成）
 - [关于本书](docs/about-this-book/)
-- [关于作者](docs/about-the-author/)
+- [关于作者](docs/about-the-author/)（完成）
 - [关于封面图画](docs/about-the-cover-illuatration/)
 - [第一部分：入门](docs/part1/)
   - [第一章 反应式编程](docs/part1/1/)
