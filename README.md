@@ -12,7 +12,7 @@
 
 - [序](docs/foreword/)（完成）
 - [前言](docs/preface/)（完成）
-- [致谢](docs/acknowledgments/)
+- [致谢](docs/acknowledgments/)（完成）
 - [关于本书](docs/about-this-book/)
 - [关于作者](docs/about-the-author/)
 - [关于封面图画](docs/about-the-cover-illuatration/)
