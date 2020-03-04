@@ -47,7 +47,7 @@ _Rx.NET in Action_ 适用于需要编写这类应用程序的 .NET 开发人员�
 
 本书多处源码在印刷时进行了重新排版，通过添加换行符、重写缩进等以适应图书纸张的可用空间。还有少数几处会更加极端，不得不使用特殊的换行符号（<img src =“img / enter.jpg”/ />）。此外，在文本中使用的代码会把源码中的注释移除，这些注释用于突出重点。
 
-本书源码可在出版社网站（www.manning.com/books/rx-dot-net-in-action）和 GitHub（https://github.com/tamirdresher/RxInAction）下载。GitHub 仓库（repository）的 README 文件给出了源码使用的说明。
+本书源码可在出版社网站（[www.manning.com/books/rx-dot-net-in-action](http://www.manning.com/books/rx-dot-net-in-action)）和 GitHub（[https://github.com/tamirdresher/RxInAction](https://github.com/tamirdresher/RxInAction)）下载。GitHub 仓库（repository）的 README 文件给出了源码使用的说明。
 
 本书电子版会为列表和代码片段进行代码着色。蓝色（blue）用于基础类型（primitive types）和关键字（keywords），水色（aqua）用于突出用户定义的类型，红色（red）用于字符串文字，棕色（brown）用于字符串参数占位符，绿色（green）用于注释，黑色（black）为用户代码。
 
