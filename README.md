@@ -19,7 +19,7 @@
 - [翻译说明](docs/translation-instructions/)（完成）
 - [第一部分：入门](docs/part1/)
   - [第一章 反应式编程](docs/part1/1/)（完成）
-  - [第二章 你好，Rx](docs/part1/2/)
+  - [第二章 你好，Rx](docs/part1/2/)（完成）
   - [第三章 C# 的函数式思想](docs/part1/3/)
 - [第二部分：核心概念](docs/part2/)
   - [第四章 创建可观察对象序列](docs/part2/4/)
